@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/static/css/main.89cf8e79.chunk.css",
+    "main.js": "/static/js/main.dd2075f9.chunk.js",
+    "main.js.map": "/static/js/main.dd2075f9.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.6df9195c.js",
+    "runtime-main.js.map": "/static/js/runtime-main.6df9195c.js.map",
+    "static/js/2.dbd39ee8.chunk.js": "/static/js/2.dbd39ee8.chunk.js",
+    "static/js/2.dbd39ee8.chunk.js.map": "/static/js/2.dbd39ee8.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.23bb5d2c1b3261c389cbcaa13f59c4d6.js": "/precache-manifest.23bb5d2c1b3261c389cbcaa13f59c4d6.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.89cf8e79.chunk.css.map": "/static/css/main.89cf8e79.chunk.css.map",
+    "static/js/2.dbd39ee8.chunk.js.LICENSE.txt": "/static/js/2.dbd39ee8.chunk.js.LICENSE.txt",
+    "static/media/History.module.css": "/static/media/middleAgeParty.3429228e.svg",
+    "static/media/AboutUs.module.css": "/static/media/SeparatingLine.f9953b5b.svg",
+    "static/media/Infographics.module.css": "/static/media/iconView.ba8230f9.svg",
+    "static/media/beforeVideo.jpg": "/static/media/beforeVideo.be04da5d.jpg",
+    "static/media/Footer.module.css": "/static/media/footerLogo.9cddcb40.png",
+    "static/media/ImageTransfer.module.css": "/static/media/restaurant.4e1ee35c.jpg",
+    "static/media/my_video.mp4": "/static/media/my_video.0815dbab.mp4",
+    "static/media/UpHeader.module.css": "/static/media/whiteLogo.052935c3.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6df9195c.js",
+    "static/js/2.dbd39ee8.chunk.js",
+    "static/css/main.89cf8e79.chunk.css",
+    "static/js/main.dd2075f9.chunk.js"
+  ]
+}
