@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/static/css/main.4a5ec9e5.chunk.css",
-    "main.js": "/static/js/main.7d2a7022.chunk.js",
-    "main.js.map": "/static/js/main.7d2a7022.chunk.js.map",
+    "main.css": "/static/css/main.ae547fc6.chunk.css",
+    "main.js": "/static/js/main.3c2b9148.chunk.js",
+    "main.js.map": "/static/js/main.3c2b9148.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.6df9195c.js",
     "runtime-main.js.map": "/static/js/runtime-main.6df9195c.js.map",
-    "static/js/2.90fff475.chunk.js": "/static/js/2.90fff475.chunk.js",
-    "static/js/2.90fff475.chunk.js.map": "/static/js/2.90fff475.chunk.js.map",
+    "static/js/2.6aaaed4c.chunk.js": "/static/js/2.6aaaed4c.chunk.js",
+    "static/js/2.6aaaed4c.chunk.js.map": "/static/js/2.6aaaed4c.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.fb2c620096cf8b7c84a627cd61c880d1.js": "/precache-manifest.fb2c620096cf8b7c84a627cd61c880d1.js",
+    "precache-manifest.a112d9ac88dfa3c4485589909acbbe2e.js": "/precache-manifest.a112d9ac88dfa3c4485589909acbbe2e.js",
     "service-worker.js": "/service-worker.js",
-    "static/css/main.4a5ec9e5.chunk.css.map": "/static/css/main.4a5ec9e5.chunk.css.map",
-    "static/js/2.90fff475.chunk.js.LICENSE.txt": "/static/js/2.90fff475.chunk.js.LICENSE.txt",
+    "static/css/main.ae547fc6.chunk.css.map": "/static/css/main.ae547fc6.chunk.css.map",
+    "static/js/2.6aaaed4c.chunk.js.LICENSE.txt": "/static/js/2.6aaaed4c.chunk.js.LICENSE.txt",
     "static/media/History.module.css": "/static/media/middleAgeParty.3429228e.svg",
     "static/media/AboutUs.module.css": "/static/media/SeparatingLine.f9953b5b.svg",
     "static/media/Infographics.module.css": "/static/media/iconView.ba8230f9.svg",
@@ -19,7 +19,7 @@
     "static/media/Footer.module.css": "/static/media/footerLogo.9cddcb40.png",
     "static/media/ImageTransfer.module.css": "/static/media/restaurant.4e1ee35c.jpg",
     "static/media/video_contacts.mp4": "/static/media/video_contacts.e2d9e5c2.mp4",
-    "static/media/video_hotel.mp4": "/static/media/video_hotel.3ab0d137.mp4",
+    "static/media/video_hotel.mp4": "/static/media/video_hotel.41f20dd1.mp4",
     "static/media/video_main.mp4": "/static/media/video_main.0815dbab.mp4",
     "static/media/video_restaurant.mp4": "/static/media/video_restaurant.852ce768.mp4",
     "static/media/video_services.mp4": "/static/media/video_services.2435f43e.mp4",
@@ -27,8 +27,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.6df9195c.js",
-    "static/js/2.90fff475.chunk.js",
-    "static/css/main.4a5ec9e5.chunk.css",
-    "static/js/main.7d2a7022.chunk.js"
+    "static/js/2.6aaaed4c.chunk.js",
+    "static/css/main.ae547fc6.chunk.css",
+    "static/js/main.3c2b9148.chunk.js"
   ]
 }
