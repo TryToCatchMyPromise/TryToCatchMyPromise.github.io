@@ -1,22 +1,23 @@
 {
   "files": {
-    "main.css": "/static/css/main.ae547fc6.chunk.css",
-    "main.js": "/static/js/main.3c2b9148.chunk.js",
-    "main.js.map": "/static/js/main.3c2b9148.chunk.js.map",
+    "main.css": "/static/css/main.92c2bcbc.chunk.css",
+    "main.js": "/static/js/main.b078c59f.chunk.js",
+    "main.js.map": "/static/js/main.b078c59f.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.6df9195c.js",
     "runtime-main.js.map": "/static/js/runtime-main.6df9195c.js.map",
     "static/js/2.6aaaed4c.chunk.js": "/static/js/2.6aaaed4c.chunk.js",
     "static/js/2.6aaaed4c.chunk.js.map": "/static/js/2.6aaaed4c.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.a112d9ac88dfa3c4485589909acbbe2e.js": "/precache-manifest.a112d9ac88dfa3c4485589909acbbe2e.js",
+    "precache-manifest.ad368de09b1f3dfd3de00745e0ea966b.js": "/precache-manifest.ad368de09b1f3dfd3de00745e0ea966b.js",
     "service-worker.js": "/service-worker.js",
-    "static/css/main.ae547fc6.chunk.css.map": "/static/css/main.ae547fc6.chunk.css.map",
+    "static/css/main.92c2bcbc.chunk.css.map": "/static/css/main.92c2bcbc.chunk.css.map",
     "static/js/2.6aaaed4c.chunk.js.LICENSE.txt": "/static/js/2.6aaaed4c.chunk.js.LICENSE.txt",
-    "static/media/History.module.css": "/static/media/middleAgeParty.3429228e.svg",
-    "static/media/AboutUs.module.css": "/static/media/SeparatingLine.f9953b5b.svg",
-    "static/media/Infographics.module.css": "/static/media/iconView.ba8230f9.svg",
-    "static/media/beforeVideo.jpg": "/static/media/beforeVideo.be04da5d.jpg",
+    "static/media/LeftNav.module.css": "/static/media/AA Haymaker.e10e8b05.ttf",
+    "static/media/History.module.css": "/static/media/middleAgeParty.b6cd208b.svg",
+    "static/media/AboutUs.module.css": "/static/media/SeparatingLine.4dc5524a.svg",
     "static/media/Footer.module.css": "/static/media/footerLogo.9cddcb40.png",
+    "static/media/Infographics.module.css": "/static/media/iconView.4c822302.svg",
+    "static/media/beforeVideo.jpg": "/static/media/beforeVideo.be04da5d.jpg",
     "static/media/ImageTransfer.module.css": "/static/media/restaurant.4e1ee35c.jpg",
     "static/media/video_contacts.mp4": "/static/media/video_contacts.e2d9e5c2.mp4",
     "static/media/video_hotel.mp4": "/static/media/video_hotel.41f20dd1.mp4",
@@ -28,7 +29,7 @@
   "entrypoints": [
     "static/js/runtime-main.6df9195c.js",
     "static/js/2.6aaaed4c.chunk.js",
-    "static/css/main.ae547fc6.chunk.css",
-    "static/js/main.3c2b9148.chunk.js"
+    "static/css/main.92c2bcbc.chunk.css",
+    "static/js/main.b078c59f.chunk.js"
   ]
 }
